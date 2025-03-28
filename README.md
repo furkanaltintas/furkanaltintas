@@ -3,12 +3,9 @@
 
 Geliştirilmekte olan projeler
 
-Portfolio(Api/Net Core Mvc/Angular) %70
-AppointmentSystem(Api/Angular) %80
-MeetingRoom(Api/Blazor) %50
-SupportFlow(Api) %20
-Cv(Api/React) Daha başlanmadı
-
-NET CORE MVC, NET CORE API
-BLAZOR, REACT, ANGULAR
+- Portfolio(Api/Net Core Mvc/Angular) %70
+- AppointmentSystem(Api/Angular) %80
+- MeetingRoom(Api/Blazor) %50
+- SupportFlow(Api) %20
+- Cv(Api/React) Daha başlanmadı
 --------------------------
